@@ -1,4 +1,4 @@
-Snippet
+Snippets
 =======
 
 This directory contains reusable C++ code extract:
